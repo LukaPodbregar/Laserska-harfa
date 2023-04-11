@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1673517887 source:c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\src\startup_stm32f301x8.s
+
+1673517887 source:c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\src\system_stm32f30x.c
+	"stm32f30x.h"
+
+1673517887 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\inc\stm32f30x.h
+	"core_cm4.h"
+	"system_stm32f30x.h"
+	<stdint.h>
+	"stm32f30x_conf.h"
+
+1673517887 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\cmsis\core_cm4.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1673517887 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\cmsis\cmsis_version.h
+
+1673517887 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\cmsis\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1673517887 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\cmsis\cmsis_gcc.h
+
+1673517887 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\cmsis\mpu_armv7.h
+
+1673517887 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\inc\system_stm32f30x.h
+
+1678988563 source:c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\src\main.c
+	"main.h"
+	"mcu_setup.h"
+	"usart_setup.h"
+
+1673522077 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\inc\main.h
+	"stm32f301x8.h"
+
+1673517294 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\inc\stm32f301x8.h
+	"core_cm4.h"
+	"system_stm32f3xx.h"
+	<stdint.h>
+
+1673517294 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\inc\system_stm32f3xx.h
+
+1678198599 source:c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\src\mcu_setup.c
+	"stm32f301x8.h"
+
+1678198692 source:c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\src\usart_setup.c
+	"stm32f301x8.h"
+
+1678198072 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\src\mcu_setup.h
+
+1678198786 c:\users\hp 8200\onedrive - univerza v ljubljani\obnova eksperimentov\laserska harfa\mcu\first_startup\mcu_harfa_new\inc\usart_setup.h
+
+1679136720 source:c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\src\startup_stm32f301x8.s
+
+1679136720 source:c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\src\system_stm32f30x.c
+	"stm32f30x.h"
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\stm32f30x.h
+	"core_cm4.h"
+	"system_stm32f30x.h"
+	<stdint.h>
+	"stm32f30x_conf.h"
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\cmsis\core_cm4.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\cmsis\cmsis_version.h
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\cmsis\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\cmsis\cmsis_gcc.h
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\cmsis\mpu_armv7.h
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\system_stm32f30x.h
+
+1679934865 source:c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\src\usart_setup.c
+	"stm32f301x8.h"
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\stm32f301x8.h
+	"core_cm4.h"
+	"system_stm32f3xx.h"
+	<stdint.h>
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\system_stm32f3xx.h
+
+1679936492 source:c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\src\main.c
+	"main.h"
+	"mcu_setup.h"
+	"usart_setup.h"
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\main.h
+	"stm32f301x8.h"
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\mcu_setup.h
+
+1679136720 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\usart_setup.h
+
+1679933489 source:c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\src\mcu_setup.c
+	"stm32f301x8.h"
+
+1679936105 source:c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\src\calibration.c
+	"stm32f301x8.h"
+
+1679935922 c:\users\luka\documents\fax\magisterska naloga\mcu_harfa_new\inc\calibration.h
+
